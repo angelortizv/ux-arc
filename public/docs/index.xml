@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 17 Jan 2025 18:38:29 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Overview</title>
+      <title>Bienvenida</title>
       <link>http://localhost:1313/docs/overview/</link>
       <pubDate>Fri, 17 Jan 2025 18:38:29 -0600</pubDate>
       <guid>http://localhost:1313/docs/overview/</guid>
-      <description>&lt;p&gt;Welcome to the Lotus Docs user guide. This guide shows you how to start creating technical documentation sites using Lotus Docs, including site customisation and using Lotus Docs&amp;rsquo; features and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-lotus-docs&#34;&gt;What is Lotus Docs? &lt;a href=&#34;#what-is-lotus-docs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That&amp;rsquo;s not to say Lotus Docs won&amp;rsquo;t scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;UX-Arc es un blog y repositorio personal dedicado a compartir conocimientos, experiencias y recursos sobre el fascinante mundo del diseño de experiencia de usuario (UX). A lo largo de los años, he recopilado información valiosa sobre diversos aspectos del diseño digital, y este espacio nace con la intención de organizar y difundir ese conocimiento de manera accesible para quienes buscan mejorar sus habilidades y comprensión en el campo del UX.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,52 +1,42 @@
 ---
 weight: 100
-title: "Overview"
-description: "adssadasdas"
+title: "Bienvenida"
+description: "En esta sección encontrarás un breve resumen de los elementos disponibles en ux-arc."
+tags: ["Beginners"]
+categories: [""]
 author: "Angelo Ortiz Vega"
 icon: "circle"
 date: "2025-01-17T18:38:29-06:00"
 lastmod: "2025-01-17T18:38:29-06:00"
 draft: false
+toc: true
 ---
 
-Welcome to the Lotus Docs user guide. This guide shows you how to start creating technical documentation sites using Lotus Docs, including site customisation and using Lotus Docs' features and templates.
+UX-Arc es un blog y repositorio personal dedicado a compartir conocimientos, experiencias y recursos sobre el fascinante mundo del diseño de experiencia de usuario (UX). A lo largo de los años, he recopilado información valiosa sobre diversos aspectos del diseño digital, y este espacio nace con la intención de organizar y difundir ese conocimiento de manera accesible para quienes buscan mejorar sus habilidades y comprensión en el campo del UX.
 
-## What is Lotus Docs?
+## ¿Qué encontrarás en UX-Arc?
 
+Este espacio aborda una amplia variedad de temas esenciales en el ámbito del diseño de experiencia de usuario, incluyendo:
 
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
+- UX Research: Métodos y herramientas para entender las necesidades, comportamientos y motivaciones de los usuarios.
+- Ideación de Soluciones: Técnicas y enfoques para generar ideas innovadoras y resolver problemas de diseño.
+- Principios del Diseño: Fundamentos esenciales que guían la creación de experiencias digitales efectivas y atractivas.
+- Diseño de Interacción: Estrategias para desarrollar interfaces intuitivas y funcionales.
+- Usabilidad: Mejores prácticas para garantizar que los productos digitales sean fáciles de usar y comprender.
+- Análisis Heurístico: Evaluaciones basadas en principios de usabilidad para identificar mejoras en el diseño.
+- Accesibilidad: Diseño inclusivo que garantiza experiencias digitales accesibles para todos los usuarios.
+- Testing: Métodos de prueba para validar y optimizar la experiencia del usuario antes y después del lanzamiento de un producto.
 
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
+Además, UX-Arc explorará otros temas afines que pueden enriquecer el conocimiento y la práctica en el diseño UX.
 
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
+## Conéctate y sigue explorando
 
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
+Si deseas conocer más sobre mi trabajo, puedes visitar mis sitios web:
 
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
+🌐 angelortizv.me
+🌐 angelortizv.com
 
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
+Para consultas, sugerencias o colaboración, no dudes en escribirme a:
+📩 angelo@angelortizv.com
 
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
-
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
-
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
-
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
-
-
-## Who is Lotus Docs for?
-
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
-
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
-
-
-
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
-
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
-
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
-
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
+**Espero que UX-Arc se convierta en una fuente de inspiración y aprendizaje para ti.** ¡Bienvenido a esta comunidad de diseño UX!

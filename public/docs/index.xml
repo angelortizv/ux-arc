@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on My New Hugo Site</title>
+    <title>Documentación on UX ARC</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on My New Hugo Site</description>
+    <description>Recent content in Documentación on UX ARC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2025 22:05:21 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 18:38:29 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Page</title>
-      <link>http://localhost:1313/docs/example-page/</link>
-      <pubDate>Thu, 16 Jan 2025 22:05:21 -0600</pubDate>
-      <guid>http://localhost:1313/docs/example-page/</guid>
-      <description>&lt;h2 id=&#34;create-new-content&#34;&gt;Create New Content &lt;a href=&#34;#create-new-content&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Navigate to the root of your Hugo project and use the &lt;code&gt;hugo new&lt;/code&gt; command to create a file in the &lt;code&gt;content/docs&lt;/code&gt; directory:&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new docs/examplepage.md&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <title>Overview</title>
+      <link>http://localhost:1313/docs/overview/</link>
+      <pubDate>Fri, 17 Jan 2025 18:38:29 -0600</pubDate>
+      <guid>http://localhost:1313/docs/overview/</guid>
+      <description>&lt;p&gt;Welcome to the Lotus Docs user guide. This guide shows you how to start creating technical documentation sites using Lotus Docs, including site customisation and using Lotus Docs&amp;rsquo; features and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-lotus-docs&#34;&gt;What is Lotus Docs? &lt;a href=&#34;#what-is-lotus-docs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That&amp;rsquo;s not to say Lotus Docs won&amp;rsquo;t scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

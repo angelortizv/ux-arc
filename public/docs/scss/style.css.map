@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/Angelo Ortiz/Documents/personal/ux-arc",
+	"sourceRoot": "C:/Users/Angelo Ortiz/documents/personal/ux-arc",
 	"sources": [
 		"themes/lotusdocs/assets/docs/scss/style.scss",
 		"themes/lotusdocs/assets/docs/scss/custom/plugins/icons/_google-material.scss",

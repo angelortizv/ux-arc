@@ -13,7 +13,6 @@ toc: true
 images: []
 ---
 
-
 Los estudios de campo son una de las herramientas más poderosas que tenemos cuando se trata de entender realmente cómo los usuarios interactúan con un producto o servicio. A través de la observación etnográfica, **estos estudios nos permiten sumergirnos en el contexto real de uso y captar insights valiosos que no siempre son visibles a través de métodos más tradicionales**, como entrevistas o encuestas.
 
 ## ¿Qué son los estudios de campo?

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accesibilidad on UX ARC</title>
+    <link>http://localhost:1313/docs/accesibilidad/</link>
+    <description>Recent content in Accesibilidad on UX ARC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2025 18:38:29 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/accesibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diseño Inclusivo</title>
+      <link>http://localhost:1313/docs/accesibilidad/inclusive-design/</link>
+      <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
+      <guid>http://localhost:1313/docs/accesibilidad/inclusive-design/</guid>
+      <description>&lt;p&gt;Cada decisión de diseño puede incluir o excluir personas. El diseño inclusivo reconoce que la diversidad de los usuarios es una herramienta clave para informar estas decisiones y asegurar que la mayor cantidad de personas posible pueda participar y sentirse parte de la experiencia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-diseño-inclusivo&#34;&gt;¿Qué es el diseño inclusivo? &lt;a href=&#34;#qu%c3%a9-es-el-dise%c3%b1o-inclusivo&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Es una metodología de diseño que toma en cuenta toda la diversidad humana. No se trata de crear una sola solución para todos, sino de diseñar diferentes maneras en las que cualquier persona pueda participar y sentirse incluida.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intro a Accesibilidad</title>
+      <link>http://localhost:1313/docs/accesibilidad/accesibility/</link>
+      <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
+      <guid>http://localhost:1313/docs/accesibilidad/accesibility/</guid>
+      <description>&lt;h2 id=&#34;qué-es-la-accesibilidad&#34;&gt;¿Qué es la accesibilidad? &lt;a href=&#34;#qu%c3%a9-es-la-accesibilidad&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;La Real Academia Española (RAE) define accesible como aquello a lo que se puede acceder sin dificultad. Aplicado a la web, la accesibilidad busca garantizar que el mayor número de personas, independientemente de sus capacidades o conocimientos, puedan utilizar y navegar por un sitio web sin barreras.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wcag-y-niveles-de-accesibilidad&#34;&gt;WCAG y Niveles de Accesibilidad &lt;a href=&#34;#wcag-y-niveles-de-accesibilidad&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las Pautas de Accesibilidad para el Contenido Web (WCAG) son un conjunto de estándares internacionales que definen cómo hacer que el contenido web sea más accesible. Se dividen en tres niveles:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WCAG</title>
+      <link>http://localhost:1313/docs/accesibilidad/wcag/</link>
+      <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
+      <guid>http://localhost:1313/docs/accesibilidad/wcag/</guid>
+      <description>&lt;h2 id=&#34;qué-es-wcag&#34;&gt;¿Qué es WCAG? &lt;a href=&#34;#qu%c3%a9-es-wcag&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las Web Content Accessibility Guidelines (WCAG) son una serie de recomendaciones para desarrollar contenido web más accesible, especialmente para personas con discapacidad. Estas guías son publicadas por el World Wide Web Consortium (W3C), un consorcio internacional que desarrolla estándares para asegurar el crecimiento y accesibilidad de la web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;evolución-de-wcag&#34;&gt;Evolución de WCAG &lt;a href=&#34;#evoluci%c3%b3n-de-wcag&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Las WCAG han evolucionado a lo largo del tiempo, con varias versiones publicadas:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;WCAG 2.0&lt;/strong&gt; - 11 de diciembre de 2008&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WCAG 2.1&lt;/strong&gt; - 5 de junio de 2018&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WCAG 2.2&lt;/strong&gt; - mayo de 2021&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cada versión ha incorporado mejoras para abordar un rango más amplio de discapacidades y dispositivos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

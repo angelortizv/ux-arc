@@ -1,7 +1,7 @@
 ---
 weight: 700
 title: "Investigación de Usuarios"
-description: "Temas relacionados a Investigación en Experiencia de Usuario."
+description: "Encuestas, Entrevistas, Estudios de Campo, Guerrilla, Tree test, entre otros."
 aliases:
     - ../guides/ux-research
 icon: "auto_awesome"

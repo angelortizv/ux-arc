@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UX ARC</title>
-    <link>http://localhost:1313/docs/metodologias/</link>
+    <link>https://ux-arc.netlify.app/docs/metodologias/</link>
     <description>Recent content on UX ARC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/docs/metodologias/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ux-arc.netlify.app/docs/metodologias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/metodologias/design-sprint/</link>
+      <link>https://ux-arc.netlify.app/docs/metodologias/design-sprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/metodologias/design-sprint/</guid>
+      <guid>https://ux-arc.netlify.app/docs/metodologias/design-sprint/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/metodologias/design-thinking/</link>
+      <link>https://ux-arc.netlify.app/docs/metodologias/design-thinking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/metodologias/design-thinking/</guid>
+      <guid>https://ux-arc.netlify.app/docs/metodologias/design-thinking/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/metodologias/doble-diamante/</link>
+      <link>https://ux-arc.netlify.app/docs/metodologias/doble-diamante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/metodologias/doble-diamante/</guid>
+      <guid>https://ux-arc.netlify.app/docs/metodologias/doble-diamante/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/metodologias/lean-ux/</link>
+      <link>https://ux-arc.netlify.app/docs/metodologias/lean-ux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/metodologias/lean-ux/</guid>
+      <guid>https://ux-arc.netlify.app/docs/metodologias/lean-ux/</guid>
       <description></description>
     </item>
   </channel>

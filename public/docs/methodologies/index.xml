@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metodologías on angelortizv </title>
-    <link>http://localhost:1313/docs/methodologies/</link>
+    <link>https://ux-arc.netlify.app/docs/methodologies/</link>
     <description>Recent content in Metodologías on angelortizv </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 01 Feb 2025 18:38:29 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/methodologies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ux-arc.netlify.app/docs/methodologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Sprint</title>
-      <link>http://localhost:1313/docs/methodologies/design-sprint/</link>
+      <link>https://ux-arc.netlify.app/docs/methodologies/design-sprint/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>http://localhost:1313/docs/methodologies/design-sprint/</guid>
+      <guid>https://ux-arc.netlify.app/docs/methodologies/design-sprint/</guid>
       <description>&lt;p&gt;El &lt;strong&gt;Design Sprint&lt;/strong&gt; es un proceso de 5 días diseñado para resolver problemas críticos de negocio mediante el diseño, el prototipado y la validación con usuarios. Fue desarrollado por &lt;strong&gt;Google Ventures&lt;/strong&gt; y ha sido utilizado por empresas de todo el mundo para acelerar la innovación y minimizar riesgos antes de invertir en el desarrollo de un producto.&lt;/p&gt;&#xA;&lt;p&gt;Este enfoque intensivo permite pasar de una idea a un prototipo validado en solo una semana, ahorrando tiempo y dinero en el proceso.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design Thinking</title>
-      <link>http://localhost:1313/docs/methodologies/design-thinking/</link>
+      <link>https://ux-arc.netlify.app/docs/methodologies/design-thinking/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>http://localhost:1313/docs/methodologies/design-thinking/</guid>
-      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;http://localhost:1313/designthinking_illustration_final2-02_6730813876362451174.png&#34; alt=&#34;design-thinking&#34; width=&#34;3000&#34; height=&#34;1865&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-design-thinking&#34;&gt;¿Qué es Design Thinking? &lt;a href=&#34;#qu%c3%a9-es-design-thinking&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Design Thinking es un enfoque de resolución de problemas centrado en el usuario, que combina creatividad, tecnología y viabilidad de negocio. Se basa en entender profundamente las necesidades de las personas para diseñar soluciones innovadoras y efectivas.&lt;/p&gt;&#xA;&lt;p&gt;Tim Brown, CEO de IDEO, lo define así:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Design Thinking es un enfoque centrado en las personas para la innovación, que se apoya en herramientas del diseño para integrar las necesidades de las personas, las posibilidades tecnológicas y los requisitos para el éxito empresarial.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>https://ux-arc.netlify.app/docs/methodologies/design-thinking/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;https://ux-arc.netlify.app/designthinking_illustration_final2-02_6730813876362451174.png&#34; alt=&#34;design-thinking&#34; width=&#34;3000&#34; height=&#34;1865&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-design-thinking&#34;&gt;¿Qué es Design Thinking? &lt;a href=&#34;#qu%c3%a9-es-design-thinking&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Design Thinking es un enfoque de resolución de problemas centrado en el usuario, que combina creatividad, tecnología y viabilidad de negocio. Se basa en entender profundamente las necesidades de las personas para diseñar soluciones innovadoras y efectivas.&lt;/p&gt;&#xA;&lt;p&gt;Tim Brown, CEO de IDEO, lo define así:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Design Thinking es un enfoque centrado en las personas para la innovación, que se apoya en herramientas del diseño para integrar las necesidades de las personas, las posibilidades tecnológicas y los requisitos para el éxito empresarial.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doble Diamante</title>
-      <link>http://localhost:1313/docs/methodologies/double-diamond/</link>
+      <link>https://ux-arc.netlify.app/docs/methodologies/double-diamond/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>http://localhost:1313/docs/methodologies/double-diamond/</guid>
+      <guid>https://ux-arc.netlify.app/docs/methodologies/double-diamond/</guid>
       <description>&lt;h2 id=&#34;qué-es-el-doble-diamante&#34;&gt;¿Qué es el Doble Diamante? &lt;a href=&#34;#qu%c3%a9-es-el-doble-diamante&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;El &lt;strong&gt;Doble Diamante es un modelo visual que representa el proceso de diseño&lt;/strong&gt;. Su popularidad radica en su enfoque en ambos aspectos fundamentales del diseño: el problema y la solución. Este modelo es una herramienta excelente para comprender el diseño y comunicar el pensamiento detrás de disciplinas como UX design, product design y service design. Todas estas áreas comparten el objetivo de trabajar tanto en la identificación de problemas como en la creación de soluciones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lean UX</title>
-      <link>http://localhost:1313/docs/methodologies/lean-ux/</link>
+      <link>https://ux-arc.netlify.app/docs/methodologies/lean-ux/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>http://localhost:1313/docs/methodologies/lean-ux/</guid>
-      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;http://localhost:1313/lean-ux-book_17465420272078239939.jpg&#34; alt=&#34;lean-ux&#34; width=&#34;292&#34; height=&#34;425&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-lean-ux&#34;&gt;¿Qué es Lean UX? &lt;a href=&#34;#qu%c3%a9-es-lean-ux&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lean UX es una técnica esencial cuando se trabaja en proyectos que utilizan el método de desarrollo ágil. A diferencia de las técnicas tradicionales de UX, Lean UX se adapta a ciclos rápidos e iterativos, enfocándose en la experiencia del usuario más que en la entrega de documentación detallada.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;El objetivo central de Lean UX es obtener retroalimentación lo más pronto posible para tomar decisiones rápidas y efectivas&lt;/strong&gt;. Su metodología imita los ciclos ágiles de desarrollo para que los datos generados sean utilizados en cada iteración.&lt;/p&gt;</description>
+      <guid>https://ux-arc.netlify.app/docs/methodologies/lean-ux/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;https://ux-arc.netlify.app/lean-ux-book_17465420272078239939.jpg&#34; alt=&#34;lean-ux&#34; width=&#34;292&#34; height=&#34;425&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-lean-ux&#34;&gt;¿Qué es Lean UX? &lt;a href=&#34;#qu%c3%a9-es-lean-ux&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lean UX es una técnica esencial cuando se trabaja en proyectos que utilizan el método de desarrollo ágil. A diferencia de las técnicas tradicionales de UX, Lean UX se adapta a ciclos rápidos e iterativos, enfocándose en la experiencia del usuario más que en la entrega de documentación detallada.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;El objetivo central de Lean UX es obtener retroalimentación lo más pronto posible para tomar decisiones rápidas y efectivas&lt;/strong&gt;. Su metodología imita los ciclos ágiles de desarrollo para que los datos generados sean utilizados en cada iteración.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pruebas de Usuario on UX ARC</title>
-    <link>http://localhost:1313/docs/testing/</link>
+    <link>https://ux-arc.netlify.app/docs/testing/</link>
     <description>Recent content in Pruebas de Usuario on UX ARC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ux-arc.netlify.app/docs/testing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

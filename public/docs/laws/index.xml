@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leyes y Patrones on angelortizv </title>
-    <link>//localhost:1313/docs/laws/</link>
+    <link>http://localhost:1313/docs/laws/</link>
     <description>Recent content in Leyes y Patrones on angelortizv </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 01 Feb 2025 18:38:29 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/docs/laws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/laws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ley de Fitts</title>
-      <link>//localhost:1313/docs/laws/fitt-law/</link>
+      <link>http://localhost:1313/docs/laws/fitt-law/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/fitt-law/</guid>
+      <guid>http://localhost:1313/docs/laws/fitt-law/</guid>
       <description>&lt;p&gt;En el diseño de interfaces, la eficiencia del usuario al interactuar con elementos es crucial. Una de las leyes más importantes en &lt;strong&gt;UX y diseño de interfaces&lt;/strong&gt; es la &lt;strong&gt;Ley de Fitts&lt;/strong&gt;, la cual explica cómo el tamaño y la distancia de un objetivo influyen en el tiempo de interacción.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-la-ley-de-fitts&#34;&gt;¿Qué es la Ley de Fitts? &lt;a href=&#34;#qu%c3%a9-es-la-ley-de-fitts&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Formulada en 1954 por &lt;strong&gt;Paul Fitts&lt;/strong&gt;, esta ley establece que:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;📏 &lt;strong&gt;Cuanto más lejos está un objetivo y más pequeño es, más tiempo y esfuerzo se necesita para alcanzarlo.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ley de Hick</title>
-      <link>//localhost:1313/docs/laws/hick-law/</link>
+      <link>http://localhost:1313/docs/laws/hick-law/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/hick-law/</guid>
+      <guid>http://localhost:1313/docs/laws/hick-law/</guid>
       <description>&lt;p&gt;Cuando diseñamos una interfaz o una experiencia de usuario, queremos que las personas &lt;strong&gt;tomen decisiones rápidamente&lt;/strong&gt;. La &lt;strong&gt;Ley de Hick&lt;/strong&gt; nos explica cómo el número de opciones afecta el tiempo de decisión y cómo podemos optimizarlo en diseño UX/UI.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-la-ley-de-hick&#34;&gt;¿Qué es la Ley de Hick? &lt;a href=&#34;#qu%c3%a9-es-la-ley-de-hick&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;La &lt;strong&gt;Ley de Hick-Hyman&lt;/strong&gt; establece que:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cuantas más opciones tiene un usuario, más tiempo le tomará decidir&amp;rdquo;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Esto se debe a que cada opción agrega un &lt;strong&gt;costo cognitivo&lt;/strong&gt;: el cerebro necesita más tiempo para analizar alternativas y elegir la mejor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ley de Jakob</title>
-      <link>//localhost:1313/docs/laws/jakob-law/</link>
+      <link>http://localhost:1313/docs/laws/jakob-law/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/jakob-law/</guid>
+      <guid>http://localhost:1313/docs/laws/jakob-law/</guid>
       <description>&lt;p&gt;Cuando los usuarios llegan a un sitio web o una aplicación, &lt;strong&gt;esperan que funcione de la manera en que ya están acostumbrados&lt;/strong&gt;. No quieren aprender un sistema completamente nuevo, sino que prefieren una experiencia familiar y predecible.&lt;/p&gt;&#xA;&lt;p&gt;Este principio se conoce como la &lt;strong&gt;Ley de Jakob&lt;/strong&gt;, y es fundamental en el diseño UX/UI.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-la-ley-de-jakob&#34;&gt;¿Qué es la Ley de Jakob? &lt;a href=&#34;#qu%c3%a9-es-la-ley-de-jakob&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Formulada por Jakob Nielsen, experto en usabilidad, esta ley establece que:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patrón F</title>
-      <link>//localhost:1313/docs/laws/f-pattern/</link>
+      <link>http://localhost:1313/docs/laws/f-pattern/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/f-pattern/</guid>
-      <description>&lt;p&gt;Cuando navegamos por internet, no leemos cada palabra detenidamente. En su lugar, &lt;strong&gt;escaneamos&lt;/strong&gt; el contenido en busca de información relevante.&lt;/p&gt;&#xA;&lt;p&gt;Uno de los patrones más comunes en la lectura en línea es el &lt;strong&gt;Patrón F&lt;/strong&gt;, un comportamiento identificado por el &lt;strong&gt;Nielsen Norman Group (NNGroup)&lt;/strong&gt; tras analizar miles de casos con la técnica de &lt;strong&gt;eye-tracking&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;//localhost:1313/f-pattern_16654772917740761448.png&#34; alt=&#34;f-pattern&#34; width=&#34;367&#34; height=&#34;527&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-patrón-f&#34;&gt;¿Qué es el Patrón F? &lt;a href=&#34;#qu%c3%a9-es-el-patr%c3%b3n-f&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;El &lt;strong&gt;Patrón F&lt;/strong&gt; describe la forma en que los usuarios &lt;strong&gt;exploran visualmente una página con mucho texto&lt;/strong&gt;. Se observa que las personas:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/laws/f-pattern/</guid>
+      <description>&lt;p&gt;Cuando navegamos por internet, no leemos cada palabra detenidamente. En su lugar, &lt;strong&gt;escaneamos&lt;/strong&gt; el contenido en busca de información relevante.&lt;/p&gt;&#xA;&lt;p&gt;Uno de los patrones más comunes en la lectura en línea es el &lt;strong&gt;Patrón F&lt;/strong&gt;, un comportamiento identificado por el &lt;strong&gt;Nielsen Norman Group (NNGroup)&lt;/strong&gt; tras analizar miles de casos con la técnica de &lt;strong&gt;eye-tracking&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;http://localhost:1313/f-pattern_16654772917740761448.png&#34; alt=&#34;f-pattern&#34; width=&#34;367&#34; height=&#34;527&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-patrón-f&#34;&gt;¿Qué es el Patrón F? &lt;a href=&#34;#qu%c3%a9-es-el-patr%c3%b3n-f&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;El &lt;strong&gt;Patrón F&lt;/strong&gt; describe la forma en que los usuarios &lt;strong&gt;exploran visualmente una página con mucho texto&lt;/strong&gt;. Se observa que las personas:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patrón Gutenberg</title>
-      <link>//localhost:1313/docs/laws/gutenberg-pattern/</link>
+      <link>http://localhost:1313/docs/laws/gutenberg-pattern/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/gutenberg-pattern/</guid>
-      <description>&lt;p&gt;Cuando diseñamos una página web o una interfaz, es clave entender cómo los usuarios escanean la información. &lt;strong&gt;El Patrón de Gutenberg&lt;/strong&gt; explica cómo distribuimos nuestra atención en una composición visual y nos ayuda a mejorar la disposición del contenido.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-patrón-de-gutenberg&#34;&gt;¿Qué es el Patrón de Gutenberg? &lt;a href=&#34;#qu%c3%a9-es-el-patr%c3%b3n-de-gutenberg&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;//localhost:1313/gutenberg_11193891807403905309.png&#34; alt=&#34;gutenberg&#34; width=&#34;457&#34; height=&#34;536&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Este patrón &lt;strong&gt;divide el área visual en cuatro cuadrantes&lt;/strong&gt;, siguiendo la forma en que las personas leen en sistemas de escritura occidental (izquierda a derecha, de arriba a abajo).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/laws/gutenberg-pattern/</guid>
+      <description>&lt;p&gt;Cuando diseñamos una página web o una interfaz, es clave entender cómo los usuarios escanean la información. &lt;strong&gt;El Patrón de Gutenberg&lt;/strong&gt; explica cómo distribuimos nuestra atención en una composición visual y nos ayuda a mejorar la disposición del contenido.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-patrón-de-gutenberg&#34;&gt;¿Qué es el Patrón de Gutenberg? &lt;a href=&#34;#qu%c3%a9-es-el-patr%c3%b3n-de-gutenberg&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;http://localhost:1313/gutenberg_11193891807403905309.png&#34; alt=&#34;gutenberg&#34; width=&#34;457&#34; height=&#34;536&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Este patrón &lt;strong&gt;divide el área visual en cuatro cuadrantes&lt;/strong&gt;, siguiendo la forma en que las personas leen en sistemas de escritura occidental (izquierda a derecha, de arriba a abajo).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patrón Z</title>
-      <link>//localhost:1313/docs/laws/z-pattern/</link>
+      <link>http://localhost:1313/docs/laws/z-pattern/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/z-pattern/</guid>
+      <guid>http://localhost:1313/docs/laws/z-pattern/</guid>
       <description>&lt;p&gt;El &lt;strong&gt;Patrón Z&lt;/strong&gt; es una estrategia de diseño visual que ayuda a guiar la atención de los usuarios de manera eficiente, aprovechando su forma natural de lectura en &lt;strong&gt;líneas horizontales&lt;/strong&gt;. Este patrón es muy utilizado en el diseño web y en el diseño de interfaces de usuario para asegurar que los elementos más importantes de una página se ubiquen en puntos clave que sigan el flujo natural del ojo humano.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principios de Gestalt</title>
-      <link>//localhost:1313/docs/laws/gestalt/</link>
+      <link>http://localhost:1313/docs/laws/gestalt/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/gestalt/</guid>
-      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;//localhost:1313/gestalt_4235534819830803581.png&#34; alt=&#34;gestalt&#34; width=&#34;986&#34; height=&#34;548&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;p&gt;El &lt;strong&gt;diseño UX&lt;/strong&gt; no solo se trata de hacer interfaces bonitas, sino de crear experiencias intuitivas para los usuarios. &lt;strong&gt;La psicología de la Gestalt&lt;/strong&gt; nos ayuda a comprender cómo las personas perciben los elementos visuales y cómo podemos diseñar de manera efectiva.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;qué-es-la-teoría-de-la-gestalt&#34;&gt;¿Qué es la Teoría de la Gestalt? &lt;a href=&#34;#qu%c3%a9-es-la-teor%c3%ada-de-la-gestalt&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;La palabra &lt;strong&gt;Gestalt&lt;/strong&gt; significa &amp;ldquo;forma&amp;rdquo; o &amp;ldquo;configuración&amp;rdquo; en alemán.&lt;br&gt;&#xA;Esta teoría, desarrollada a principios del siglo XX, sostiene que &lt;strong&gt;las personas perciben los elementos visuales como un todo, no como partes aisladas&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/laws/gestalt/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;http://localhost:1313/gestalt_4235534819830803581.png&#34; alt=&#34;gestalt&#34; width=&#34;986&#34; height=&#34;548&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;p&gt;El &lt;strong&gt;diseño UX&lt;/strong&gt; no solo se trata de hacer interfaces bonitas, sino de crear experiencias intuitivas para los usuarios. &lt;strong&gt;La psicología de la Gestalt&lt;/strong&gt; nos ayuda a comprender cómo las personas perciben los elementos visuales y cómo podemos diseñar de manera efectiva.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;qué-es-la-teoría-de-la-gestalt&#34;&gt;¿Qué es la Teoría de la Gestalt? &lt;a href=&#34;#qu%c3%a9-es-la-teor%c3%ada-de-la-gestalt&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;La palabra &lt;strong&gt;Gestalt&lt;/strong&gt; significa &amp;ldquo;forma&amp;rdquo; o &amp;ldquo;configuración&amp;rdquo; en alemán.&lt;br&gt;&#xA;Esta teoría, desarrollada a principios del siglo XX, sostiene que &lt;strong&gt;las personas perciben los elementos visuales como un todo, no como partes aisladas&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Selective Disregard</title>
-      <link>//localhost:1313/docs/laws/selective-disregard/</link>
+      <link>http://localhost:1313/docs/laws/selective-disregard/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/selective-disregard/</guid>
-      <description>&lt;p&gt;En el mundo digital, los usuarios &lt;strong&gt;no procesan toda la información en una página&lt;/strong&gt;. Su atención es limitada y se enfoca solo en lo que parece relevante para su tarea. Este fenómeno se conoce como &lt;strong&gt;Selective Disregard&lt;/strong&gt; o &amp;ldquo;Descarte Selectivo&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;//localhost:1313/selectivedisregard_18077617264596766973.jpg&#34; alt=&#34;selective-disregard&#34; width=&#34;1600&#34; height=&#34;867&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-selective-disregard&#34;&gt;¿Qué es Selective Disregard? &lt;a href=&#34;#qu%c3%a9-es-selective-disregard&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Selective Disregard es el principio psicológico que explica cómo los usuarios &lt;strong&gt;ignoran información que no parece útil o relevante&lt;/strong&gt; en un contexto determinado.&lt;/p&gt;&#xA;&lt;p&gt;En diseño UX/UI, esto significa que:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/laws/selective-disregard/</guid>
+      <description>&lt;p&gt;En el mundo digital, los usuarios &lt;strong&gt;no procesan toda la información en una página&lt;/strong&gt;. Su atención es limitada y se enfoca solo en lo que parece relevante para su tarea. Este fenómeno se conoce como &lt;strong&gt;Selective Disregard&lt;/strong&gt; o &amp;ldquo;Descarte Selectivo&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;      &lt;img src=&#34;http://localhost:1313/selectivedisregard_18077617264596766973.jpg&#34; alt=&#34;selective-disregard&#34; width=&#34;1600&#34; height=&#34;867&#34; loading=&#34;lazy&#34;&gt;&#xA;    &#xA;  &#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-selective-disregard&#34;&gt;¿Qué es Selective Disregard? &lt;a href=&#34;#qu%c3%a9-es-selective-disregard&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Selective Disregard es el principio psicológico que explica cómo los usuarios &lt;strong&gt;ignoran información que no parece útil o relevante&lt;/strong&gt; en un contexto determinado.&lt;/p&gt;&#xA;&lt;p&gt;En diseño UX/UI, esto significa que:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Usabilidad-Estética</title>
-      <link>//localhost:1313/docs/laws/usability-aesthetics/</link>
+      <link>http://localhost:1313/docs/laws/usability-aesthetics/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/usability-aesthetics/</guid>
+      <guid>http://localhost:1313/docs/laws/usability-aesthetics/</guid>
       <description>&lt;p&gt;En el mundo del diseño, existe una tendencia natural de los usuarios a asociar &lt;strong&gt;lo estéticamente atractivo&lt;/strong&gt; con &lt;strong&gt;lo fácil de usar&lt;/strong&gt;. Este fenómeno se conoce como el &lt;strong&gt;Principio de Usabilidad-Estética&lt;/strong&gt;. Según este principio, un diseño visualmente agradable no solo captura la atención, sino que también aumenta la percepción de su &lt;strong&gt;usabilidad&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-principio-de-usabilidad-estética&#34;&gt;¿Qué es el Principio de Usabilidad-Estética? &lt;a href=&#34;#qu%c3%a9-es-el-principio-de-usabilidad-est%c3%a9tica&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;El Principio de Usabilidad-Estética sugiere que las personas tienden a creer que los productos que &lt;strong&gt;se ven mejor&lt;/strong&gt; son más fáciles de usar, incluso cuando no es cierto. En otras palabras, la &lt;strong&gt;percepción estética&lt;/strong&gt; influye en la &lt;strong&gt;percepción funcional&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Von Restorff Effect</title>
-      <link>//localhost:1313/docs/laws/von-restorff-effect/</link>
+      <link>http://localhost:1313/docs/laws/von-restorff-effect/</link>
       <pubDate>Sat, 01 Feb 2025 18:38:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/laws/von-restorff-effect/</guid>
+      <guid>http://localhost:1313/docs/laws/von-restorff-effect/</guid>
       <description>&lt;p&gt;El &lt;strong&gt;Efecto Von Restorff&lt;/strong&gt; es un fenómeno psicológico que explica cómo los elementos que se &lt;strong&gt;destacan&lt;/strong&gt; entre muchos similares tienen más probabilidades de ser &lt;strong&gt;recordados&lt;/strong&gt;. Este principio es particularmente relevante en diseño, marketing y comunicación, donde la memoria juega un papel clave para captar la atención del usuario.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-el-efecto-von-restorff&#34;&gt;¿Qué es el Efecto Von Restorff? &lt;a href=&#34;#qu%c3%a9-es-el-efecto-von-restorff&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;El &lt;strong&gt;Efecto Von Restorff&lt;/strong&gt;, también conocido como el &lt;strong&gt;Efecto de Aislamiento&lt;/strong&gt;, predice que cuando en un conjunto de elementos hay uno que es &lt;strong&gt;diferente&lt;/strong&gt;, &lt;strong&gt;único&lt;/strong&gt; o &lt;strong&gt;sobresaliente&lt;/strong&gt;, este será más fácilmente &lt;strong&gt;recordado&lt;/strong&gt; que los demás elementos similares.&lt;/p&gt;</description>
     </item>
   </channel>

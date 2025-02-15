@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentación on angelortizv </title>
-    <link>https://ux-arc.netlify.app/docs/</link>
+    <link>http://localhost:1313/docs/</link>
     <description>Recent content in Documentación on angelortizv </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 17 Jan 2025 18:38:29 -0600</lastBuildDate>
-    <atom:link href="https://ux-arc.netlify.app/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
-      <link>https://ux-arc.netlify.app/docs/overview/</link>
+      <link>http://localhost:1313/docs/overview/</link>
       <pubDate>Fri, 17 Jan 2025 18:38:29 -0600</pubDate>
-      <guid>https://ux-arc.netlify.app/docs/overview/</guid>
+      <guid>http://localhost:1313/docs/overview/</guid>
       <description>&lt;p&gt;UX-Arc es un blog y repositorio personal dedicado a compartir &lt;strong&gt;conocimientos, experiencias y recursos sobre el mundo del diseño de experiencia de usuario&lt;/strong&gt;. A lo largo de los años, he recopilado información valiosa sobre diversos aspectos del diseño digital, y este espacio nace con la intención de organizar y difundir ese conocimiento de manera accesible para quienes buscan mejorar sus habilidades y comprensión en el campo del UX.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Lo más importante en el diseño es cómo las cosas funcionan, no cómo se ven.&lt;/em&gt;&#xA;Don Norman&lt;/p&gt;</description>
     </item>
   </channel>
